@@ -1,3 +1,3 @@
 # ImageWoof
-[Dataset](https://github.com/fastai/imagenette)
-[Model](https://github.com/IvLabs/stagewise-knowledge-distillation)
+1. [Dataset](https://github.com/fastai/imagenette)
+2. [Model](https://github.com/IvLabs/stagewise-knowledge-distillation)
